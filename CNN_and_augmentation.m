@@ -6,7 +6,7 @@
 %have been described in the publication: doi: x x x x x x x 
 
 % samplingRate - denotes the sampling frequency of the EEG signal, set to 256 Hz.
-% channels - a list of EEG channels selected for analysis or processing, specifically channels 1, 15, and 16 in this context.
+% channels - a list of EEG channels selected for analysis or processing, specifically channels 2, 2, and 3 in this context.
 % numGeneratedSignals - the number of EEG signals to be generated through the augmentation method, specified as 50,000 in this case.
 % currentCount - a variable used for counting and indexing the generated signals during the augmentation process.
 % subjectNumber - an identifier for the subject or patient from whose data the signals are being processed.
