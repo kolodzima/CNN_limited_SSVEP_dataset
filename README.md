@@ -1,13 +1,11 @@
 # CNN and EEG Dataset Augmentation
 
 This repository contains the CNN solution and dataset augmentation of SSVEP EEG signals.
-
-## Overview
-
 The details of the mathematical solution and the structure of the CNN are described in a publication currently under review. 
 The DOI is not available yet.
 
 ## Code
+
 
 The code for this project is written in MATLAB and tested on the following setup:
 
