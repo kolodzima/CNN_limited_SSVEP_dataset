@@ -6,6 +6,9 @@ The DOI is not available yet.
 
 ## Code
 
+In the file CNN_and_augmentation.m, you will find the main program in which test examples are loaded. Then, EEG data are generated using the proposed augmentation method. Subsequently, the CNN network is trained. At the end, the network is tested with test data. The program loads data for selected users S01-S05.
+
+The file generateSignals.m is a helper file and is used to ensure the correct functioning of the proposed augmentation method.
 
 The code for this project is written in MATLAB and tested on the following setup:
 
