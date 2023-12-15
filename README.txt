@@ -1,6 +1,6 @@
-# SSVEP CNN and EEG Dataset Augmentation Results
+# CNN and EEG Dataset Augmentation Results
 
-This repository contains the results and methodology for the CNN solution and dataset augmentation of SSVEP EEG signals.
+This repository contains the CNN solution and dataset augmentation of SSVEP EEG signals.
 
 ## Overview
 
