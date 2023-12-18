@@ -3,13 +3,6 @@
 This repository contains the CNN solution and dataset augmentation of SSVEP EEG signals.
 The details of the mathematical solution and the structure of the CNN are described in a publication:
 
-MDPI and ACS Style
-Kołodziej, M.; Majkowski, A.; Rak, R.J.; Wiszniewski, P. Convolutional Neural Network-Based Classification of Steady-State Visually Evoked Potentials with Limited Training Data. Appl. Sci. 2023, 13, 13350. https://doi.org/10.3390/app132413350
-
-AMA Style
-Kołodziej M, Majkowski A, Rak RJ, Wiszniewski P. Convolutional Neural Network-Based Classification of Steady-State Visually Evoked Potentials with Limited Training Data. Applied Sciences. 2023; 13(24):13350. https://doi.org/10.3390/app132413350
-
-Chicago/Turabian Style
 Kołodziej, Marcin, Andrzej Majkowski, Remigiusz J. Rak, and Przemysław Wiszniewski. 2023. "Convolutional Neural Network-Based Classification of Steady-State Visually Evoked Potentials with Limited Training Data" Applied Sciences 13, no. 24: 13350. https://doi.org/10.3390/app132413350
 
 ## Data
